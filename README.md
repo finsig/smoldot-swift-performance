@@ -2,7 +2,7 @@
 
 An app project for use in conjunction with the XCode Memory Report and/or Instruments.
 
-* Add single chain - client idle.
+* Add single chain - client "idle".
 * Add chain to client, remove chain from client.
 * Receive subscription responses.
 
